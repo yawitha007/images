@@ -1,0 +1,55 @@
+h1{
+    text-align: center;
+}
+.contaion{
+    display: flex;
+}
+.icon{
+    text-align: center;
+}
+.link{
+    text-align: center;
+}
+.all_Pro{
+    display: flex;
+}
+.pro{
+    border: 1px ;
+    margin-left: 10px;
+    border-radius: 8px;
+    padding: 10px;
+    text-align: center;
+    box-shadow: 0px 10px 20px;
+}
+.hon{
+    text-align-last: center;
+}
+h2{
+    text-align: center;
+}
+.center{
+    display: flex;
+    justify-content: center;
+}
+.all_skill ol{
+     display: grid;
+     grid-template-columns: repeat(8, auto);
+}
+.footer{
+    text-align: center;
+}
+.contt{
+    display: flex;
+    justify-content: center;
+
+}
+.kom{
+     display: flex;
+    justify-content: center;
+}
+#contact div{
+    margin: 4px;
+    display: flex;
+    justify-content: center;
+
+}
